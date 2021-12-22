@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/WeatherApp/app/src/main/res/layout/activity_splash.xml" value="0.19166666666666668" />
         <entry key="..\:/WeatherApp/app/src/main/res/layout/fragment_list.xml" value="0.19166666666666668" />
         <entry key="..\:/WeatherApp/app/src/main/res/layout/fragment_map.xml" value="0.2" />
         <entry key="..\:/WeatherApp/app/src/main/res/layout/list_item.xml" value="0.2" />
